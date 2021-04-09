@@ -6,17 +6,12 @@ using System.Threading.Tasks;
 
 namespace consoleUTS_PBO
 {
-    class Barang
+    public abstract class Barang
     {
-        public string nama { get; set; }
-        public int jumlah { get; set; }
+
+        public string nama { get; set; } //dapat digunakan utunk nama atau merk barang
+        public double jumlah { get; set; }
         public double harga { get; set; }
 
-        public Barang(string namaBarang, int jumlahBarang, double hargaBarang)
-        {
-            nama = namaBarang;
-            jumlah = jumlahBarang;
-            harga = hargaBarang;
-        }
     }
 }

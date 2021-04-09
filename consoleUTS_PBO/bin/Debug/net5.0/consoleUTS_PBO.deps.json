@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "consoleUTS_PBO/1.0.0": {
+        "runtime": {
+          "consoleUTS_PBO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "consoleUTS_PBO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

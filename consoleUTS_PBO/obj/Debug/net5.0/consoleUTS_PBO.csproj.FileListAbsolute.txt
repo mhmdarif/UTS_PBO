@@ -1,0 +1,16 @@
+F:\CODING\UTS\PBO_Console\consoleUTS_PBO\bin\Debug\net5.0\consoleUTS_PBO.exe
+F:\CODING\UTS\PBO_Console\consoleUTS_PBO\bin\Debug\net5.0\consoleUTS_PBO.deps.json
+F:\CODING\UTS\PBO_Console\consoleUTS_PBO\bin\Debug\net5.0\consoleUTS_PBO.runtimeconfig.json
+F:\CODING\UTS\PBO_Console\consoleUTS_PBO\bin\Debug\net5.0\consoleUTS_PBO.runtimeconfig.dev.json
+F:\CODING\UTS\PBO_Console\consoleUTS_PBO\bin\Debug\net5.0\consoleUTS_PBO.dll
+F:\CODING\UTS\PBO_Console\consoleUTS_PBO\bin\Debug\net5.0\ref\consoleUTS_PBO.dll
+F:\CODING\UTS\PBO_Console\consoleUTS_PBO\bin\Debug\net5.0\consoleUTS_PBO.pdb
+F:\CODING\UTS\PBO_Console\consoleUTS_PBO\obj\Debug\net5.0\consoleUTS_PBO.csprojAssemblyReference.cache
+F:\CODING\UTS\PBO_Console\consoleUTS_PBO\obj\Debug\net5.0\consoleUTS_PBO.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODING\UTS\PBO_Console\consoleUTS_PBO\obj\Debug\net5.0\consoleUTS_PBO.AssemblyInfoInputs.cache
+F:\CODING\UTS\PBO_Console\consoleUTS_PBO\obj\Debug\net5.0\consoleUTS_PBO.AssemblyInfo.cs
+F:\CODING\UTS\PBO_Console\consoleUTS_PBO\obj\Debug\net5.0\consoleUTS_PBO.csproj.CoreCompileInputs.cache
+F:\CODING\UTS\PBO_Console\consoleUTS_PBO\obj\Debug\net5.0\consoleUTS_PBO.dll
+F:\CODING\UTS\PBO_Console\consoleUTS_PBO\obj\Debug\net5.0\ref\consoleUTS_PBO.dll
+F:\CODING\UTS\PBO_Console\consoleUTS_PBO\obj\Debug\net5.0\consoleUTS_PBO.pdb
+F:\CODING\UTS\PBO_Console\consoleUTS_PBO\obj\Debug\net5.0\consoleUTS_PBO.genruntimeconfig.cache
