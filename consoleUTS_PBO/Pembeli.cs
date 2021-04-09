@@ -8,7 +8,7 @@ namespace consoleUTS_PBO
 {
     class Pembeli
     {
-        public string nama_pembeli { get; set; }
+        public string nama { get; set; }
 
         public void lihatSemuaBarang()
         {
